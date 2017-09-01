@@ -1,4 +1,4 @@
-# xtx-win
+# electron-demo
 
 > An electron-vue project
 
